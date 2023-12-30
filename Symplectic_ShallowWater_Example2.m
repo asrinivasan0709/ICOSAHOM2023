@@ -3,7 +3,7 @@ clc; clear; close all;
 % ASrinivasan, 23Jan2023
 % 1D Shallow Water wave eqn
 % https://arxiv.org/pdf/2009.09641.pdf
-addpath('C:\Anand\Acer_Data\SDSU\MOLE\mole-master\mole_MATLAB')
+addpath('...\mole-master\mole_MATLAB')
 
 NE = 100*[1, 2, 4, 8, 16]';  
 
