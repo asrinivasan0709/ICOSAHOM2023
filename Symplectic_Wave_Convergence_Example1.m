@@ -2,7 +2,7 @@ clc; clear; close all;
 % Symplectic Integrator, Example
 % ASrinivasan, 23Dec2022
 % 1D Wave eqn
-addpath('C:\Anand\Acer_Data\SDSU\MOLE\mole-master\mole_MATLAB')
+addpath('...\mole-master\mole_MATLAB')
 
 NE = 100*[4, 8, 16, 32, 64, 128]';  
 
